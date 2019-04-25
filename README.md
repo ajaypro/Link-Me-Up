@@ -1,4 +1,4 @@
-# Link-Me-Up
+# Link-Me-Up - Info about gradle, git, android resources
 
 Any technical information which I come across everyday, will be logged here.
 
